@@ -1,6 +1,6 @@
 ### Hello there!
 
-- 🔭  I’m currently working on: developing the The Look app
+- 🔭  I’m currently working on: developing the The Look app MVP
 - 🌱  I’m currently learning: Swift and Objective-C
 - 👯  I’m looking to collaborate on: projects that will expand my understanding of Javascript
 - 💬  Considering a coding bootcamp? Let's get in touch!
