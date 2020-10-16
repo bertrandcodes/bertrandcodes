@@ -1,4 +1,4 @@
-### Hello there!
+### Hello there! Check out what I've been working on...
 
 - 🔭  I’m currently working through Execute Program and JavaScript30
 - 🌱  I’m currently teaching myself Vue.js
