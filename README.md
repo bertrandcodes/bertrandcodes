@@ -1,6 +1,6 @@
 ### Hello there! Check out what I've been working on...
 
-- 🔭  I’m currently working through JavaScript30
+- 🔭  I’m currently working through JavaScript30. To find out more, follow me on my #100DaysOfCode journey: https://www.linkedin.com/in/bertrandshao/
 - 🌱  I’m currently teaching myself Python/Django
 - 👯  I’m looking to collaborate on projects that will introduce me to new stacks and technologies
 - 💬  Considering a coding bootcamp? Let's get in touch!
